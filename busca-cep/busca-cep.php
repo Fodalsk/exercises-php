@@ -3,7 +3,6 @@
 	<input type="submit" name="submit" value="enviar">
 </form>
 
-<script src="https://use.fontawesome.com/8ee07e83e4.js"></script>
 <script src="js/jquery-3.6.0.min.js"></script>
 <script src="js/functions.js"></script>
 <script src="js/jquery.mask.js"></script>
